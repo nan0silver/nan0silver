@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=NaHyun%20Eun&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=NaHyun%20Eun&fontSize=80&color=0:B6DD57,100:B6DD57&stroke=F2BF23&strokeWidth=3)
 
 <!--
 </br>
