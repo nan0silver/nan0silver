@@ -2,6 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NaHyun%20Eun&fontSize=80&color=0:DDDB57,100:B0DD57&stroke=F2BF23&strokeWidth=3" alt="header">
 </div>
 
+<h3 align="center">🐯 Introduction 🐯</h3>
+<p align="center">개발자를 꿈꾸며 열심히 공부하고 있습니다!</p>
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/nan0silver"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
