@@ -10,7 +10,7 @@
     <img
       src="https://render.gitanimals.org/farms/nan0silver"
       width="600"
-      height="300"
+      height="200"
     />
   </a>
 </div>
