@@ -20,7 +20,6 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-004E6F?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-674ea7?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/javascript-181717.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
 </div>
@@ -52,7 +51,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-339ab6?style=for-the-badge&logo=react&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/graphql-dd7abd?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Tenserflow-dd7abd?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
 </div>
 
 <br>
