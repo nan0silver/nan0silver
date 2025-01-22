@@ -4,6 +4,8 @@
 
 <h3 align="center">🐯 Introduction 🐯</h3>
 <p align="center">개발자를 꿈꾸며 열심히 공부하고 있습니다!</p>
+<br>
+<p align="center">Git Blog 👉 https://nan0silver.github.io </p>
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
