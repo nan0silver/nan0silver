@@ -39,7 +39,7 @@
     <b>Hello my Plant: 실내 식물 이미지 인식 및 관리 앱 구현</b>
   </a><br>
   2022 | In <i>Proceedings of the Korea Computer Congress (KCC 2022)</i> 
-  🔗 <a href="https://github.com/HellomyPlant">Code Repository</a>
+  🔗 <a href="https://github.com/HellomyPlant/HelloPlant">Code Repository</a>
 </p>
 
 <br>
