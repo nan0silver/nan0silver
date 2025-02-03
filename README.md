@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NaHyun%20Eun&fontSize=80&color=0:DDDB57,100:B0DD57&stroke=F2BF23&strokeWidth=3" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NaHyun%20Eun&fontSize=80&color=0:57b8dd,100:066b92&stroke=0d7ca7&strokeWidth=3" alt="header">
 </div>
 
 <h3>🐯 Introduction 🐯</h3>
