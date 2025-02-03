@@ -47,6 +47,7 @@
 
 <!--내용 부분-->
 ### ✨ Tech Stack ✨
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=nano333)](https://solved.ac/nano333)
 <div>
   <img src="https://img.shields.io/badge/java-004E6F?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -109,6 +110,7 @@
 </div>
 
 <br><br>
+
 
 <div>
   <a href="https://github.com/devxb/gitanimals">
