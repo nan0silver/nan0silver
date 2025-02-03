@@ -9,19 +9,20 @@
 <br>
 
 <h3>📄 Publications 📄</h3>
-<p>
-  <a href="https://doi.org/10.1007/978-981-99-8612-5_40">
-    <b>Design of Automatic Online Lecture Video Commentator for Visually Impaired Students Supporting Diagram Commentary</b>
-  </a><br>
-  2024 | In <i>Intelligent Computing and Applications</i> 
-  🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
-</p>
 
 <p>
   <a href="https://doi.org/10.1007/978-981-97-3559-4_31">
     <b>DiagramVoice: Automatic Lecture Video Commentator for Visually Impaired Students Supporting Diagram Commentary</b>
   </a><br>
-  2023 | In <i>Advances in Artificial Intelligence, Software and Systems Engineering</i>
+  2024 | In <i>Advances in Artificial Intelligence, Software and Systems Engineering</i>
+  🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
+</p>
+
+<p>
+  <a href="https://doi.org/10.1007/978-981-99-8612-5_40">
+    <b>Design of Automatic Online Lecture Video Commentator for Visually Impaired Students Supporting Diagram Commentary</b>
+  </a><br>
+  2024 | In <i>Intelligent Computing and Applications</i> 
   🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
 </p>
 
