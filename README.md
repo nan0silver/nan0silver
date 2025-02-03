@@ -6,6 +6,7 @@
 <p>개발자를 꿈꾸며 열심히 공부하고 있습니다!</p>
 <br>
 <p>Git Blog 👉 https://nan0silver.github.io </p>
+<br>
 
 <h3>📄 Publications 📄</h3>
 <p>
