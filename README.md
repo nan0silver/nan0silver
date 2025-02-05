@@ -112,13 +112,10 @@
 <br><br>
 
 
-<div>
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/nan0silver"
-      width="600"
-      height="200"
-    />
-  </a>
-</div>
-<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nan0silver&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/nan0silver"
+  width="600"
+  height="200"
+/>
+</a>
