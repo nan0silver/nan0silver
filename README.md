@@ -101,7 +101,7 @@
 <div>
   <a href="mailto:silvernh1220@gmail.com">
     <img
-      src="https://img.shields.io/badge/dmsskgus@sm.ac.kr-d251c8?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/silvernh1220@gmail-d251c8?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/e_nano_e/">
     <img
