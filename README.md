@@ -99,7 +99,7 @@
 
 <h3>📫 Contact 📫</h3>
 <div>
-  <a href="mailto:dmsskgus@sm.ac.kr">
+  <a href="mailto:silvernh1220@gmail.com">
     <img
       src="https://img.shields.io/badge/dmsskgus@sm.ac.kr-d251c8?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
