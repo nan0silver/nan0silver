@@ -47,23 +47,32 @@
 
 
 <!--내용 부분-->
-### ✨ Tech Stack ✨
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=nano333)](https://solved.ac/nano333)
+<div align="center">
+<h3>✨ Tech Stack ✨</h3>
+<a href="https://solved.ac/nano333">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nano333" />
+</a>
+
+<br>
+<br>
+
 <div>
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-181717.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/flask-150458.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
 
 <div>
   <img src="https://img.shields.io/badge/java-004E6F?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/flask-150458.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-181717.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/firebase-ffd966.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />&nbsp
+  <img src="https://img.shields.io/badge/supabase-85B09A.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />&nbsp
+  
 </div>
 
 
@@ -73,13 +82,19 @@
   <img src="https://img.shields.io/badge/android studio-2a8642.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/Github Actions-white?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp
+  <img src="https://img.shields.io/badge/Render-ffffcc.svg?style=for-the-badge&logo=render&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/Koyeb-ffccff.svg?style=for-the-badge&logo=koyeb&logoColor=121212" />&nbsp
+</div>
+
 <br>
 
 <h3>📚 Studying 📚</h3>
 <div>
   <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-339ab6?style=for-the-badge&logo=react&logoColor=white" />&nbsp
-
+  <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp
 </div>
 
 <br>
@@ -90,6 +105,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-cccccc.svg?style=for-the-badge&logo=figma&logoColor=black" />&nbsp
 </div>
+
 
 <br>
 
@@ -107,9 +123,11 @@
   </a>
 </div>
 
+
+
 <br><br>
 
-<div align="center">
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nan0silver&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nan0silver"
