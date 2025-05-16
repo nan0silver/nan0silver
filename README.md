@@ -117,6 +117,10 @@
     <img
       src="https://img.shields.io/badge/silvernh1220@gmail-d251c8?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a href="https://silvernh.tistory.com">
+    <img
+      src="https://img.shields.io/badge/Tistory-E94F20?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+  </a>
   <a href="https://www.instagram.com/e_nano_e/">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
