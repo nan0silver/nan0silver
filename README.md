@@ -127,6 +127,10 @@
   </a>
 </div>
 
+<br><br>
+[![은나현's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0silver&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <br><br>
