@@ -17,6 +17,7 @@
   </a><br>
   2024 | In <i>Advances in Artificial Intelligence, Software and Systems Engineering</i>
   🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
+  (제 1저자)
 </p>
 
 <p>
@@ -25,6 +26,7 @@
   </a><br>
   2024 | In <i>Intelligent Computing and Applications</i> 
   🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
+  (제 1저자)
 </p>
 
 
@@ -33,6 +35,7 @@
     <b>Speech-Recognizing KIOSK Mobile Application for the Visually Impaired</b>
   </a><br>
   2022 | In <i>Proceedings of the 14th International Conference on Computer Modeling and Simulation (ICCMS)</i> 
+  (제 1저자)
 </p>
 
 <p >
@@ -41,6 +44,7 @@
   </a><br>
   2022 | In <i>Proceedings of the Korea Computer Congress (KCC 2022)</i> 
   🔗 <a href="https://github.com/HellomyPlant/HelloPlant">Code Repository</a>
+  (제 1저자)
 </p>
 
 <br>
