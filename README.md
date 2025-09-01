@@ -132,7 +132,7 @@
 </div>
 
 <br><br>
-![은나현's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0silver&count_private=true&show_icons=true&theme=dracula)
+![은나현's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0silver&count_private=true&show_icons=true&theme=dracula) </br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nan0silver&hide=html&layout=compact&theme=dracula)
 
 
