@@ -60,67 +60,77 @@
 <!--내용 부분-->
 <div align="center">
 <h3>✨ Tech Stack ✨</h3>
+
 <a href="https://solved.ac/nano333">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nano333" />
 </a>
 
 <br>
+
+<!-- Backend -->
+<h4>🔧 Backend</h4>
+<div>
+  <img src="https://img.shields.io/badge/java-004E6F?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
+
 <br>
 
+<!-- AI / ML -->
+<h4>🧠 AI · Machine Learning · Data</h4>
 <div>
-
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/flask-150458.svg?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
-
-
-<div>
-  <img src="https://img.shields.io/badge/java-004E6F?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-181717.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/firebase-ffd966.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />&nbsp
-  <img src="https://img.shields.io/badge/supabase-85B09A.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />&nbsp
-  
-</div>
-
-
-<div>
-  <img src="https://img.shields.io/badge/flutter-CCECFA?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp
-  <img src="https://img.shields.io/badge/dart-0062a2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/android studio-2a8642.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Github Actions-white?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp
-  <img src="https://img.shields.io/badge/Render-ffffcc.svg?style=for-the-badge&logo=render&logoColor=000000" />&nbsp
-  <img src="https://img.shields.io/badge/Koyeb-ffccff.svg?style=for-the-badge&logo=koyeb&logoColor=121212" />&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-2ecc71?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 <br>
 
-<h3>📚 Studying 📚</h3>
+<!-- DB / Cloud -->
+<h4>🗄 Database & Cloud</h4>
 <div>
-  <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React-339ab6?style=for-the-badge&logo=react&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
 </div>
 
 <br>
 
-<h3 >🛠 Tools 🛠</h3>
+<!-- DevOps -->
+<h4>⚙️ DevOps & Deployment</h4>
 <div>
-  <img src="https://img.shields.io/badge/git-5b5b5b.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-cccccc.svg?style=for-the-badge&logo=figma&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" />
 </div>
-
 
 <br>
 
+<!-- Frontend / Mobile -->
+<h4>📱 Frontend & Mobile</h4>
+<div>
+  <img src="https://img.shields.io/badge/React-339ab6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</div>
 
+<br>
+
+<!-- Tools -->
+<h4>🛠 Tools</h4>
+<div>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+<br>
 
 <h3>📫 Contact 📫</h3>
 <div>
@@ -138,7 +148,7 @@
   </a>
 </div>
 
-<br><br>
+<br><br><br>
 ![은나현's GitHub stats](https://github-readme-stats-lac-nine-51.vercel.app/api?username=nan0silver&show_icons=true&theme=dracula&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) </br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nan0silver&hide=html&layout=compact&theme=dracula)
 
