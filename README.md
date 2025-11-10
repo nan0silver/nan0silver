@@ -1,10 +1,6 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NaHyun%20Eun&fontSize=80&color=0:57b8dd,100:066b92&stroke=0d7ca7&strokeWidth=3" alt="header">
-</div>
-
 <h3>🐯 Introduction 🐯</h3>
 <p>
-저는 <b>AI 기반 영상·음성 분석 시스템</b>을 연구하고 구현해 온 
+저는 <b>AI 기반 영상·음성 분석 시스템</b>을 연구하고 구현하기 위해 꾸준히 노력해 온
 <b>백엔드 · AI 개발자</b>입니다.<br>
 특히 사회적 약자를 위한 접근성 기술 개발에 집중하여, 
 <b>ACM·Springer SCOPUS 국제학회 제1저자 3편</b>, Oral 발표 2회를 수행했습니다.
