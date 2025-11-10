@@ -3,48 +3,55 @@
 </div>
 
 <h3>🐯 Introduction 🐯</h3>
-<p>개발자를 꿈꾸며 열심히 공부하고 있습니다!</p>
+<p>
+저는 <b>AI 기반 영상·음성 분석 시스템</b>을 연구하고, 이를 실제 프로덕트 수준으로 구현해 온 
+<b>백엔드 · AI 개발자</b>입니다.<br>
+특히 사회적 약자를 위한 접근성 기술 개발에 집중하여, 
+<b>ACM·Springer SCOPUS 국제학회 제1저자 3편</b>, Oral 발표 2회를 수행했습니다.
+</p>
 <br>
 <p>Git Blog 👉 https://nan0silver.github.io </p>
 <p>Github Portfolio 👉 https://github.com/nan0silver/portfolio </p>
 <br>
 
-<h3>📄 Publications 📄</h3>
+<h3>📄 Publications (First Author) 📄</h3>
 
 <p>
   <a href="https://doi.org/10.1007/978-981-97-3559-4_31">
     <b>DiagramVoice: Automatic Lecture Video Commentator for Visually Impaired Students Supporting Diagram Commentary</b>
   </a><br>
-  2024 | In <i>Advances in Artificial Intelligence, Software and Systems Engineering</i>
+  2024 | Springer ICICT (SCOPUS) — <b>Oral Presentation</b><br>
+  <i>AI 기반 도표·그래프 자동 설명 알고리즘 설계, 사용자 만족도 9.82/10</i><br>
   🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
-  (제 1저자)
 </p>
+<br>
 
 <p>
   <a href="https://doi.org/10.1007/978-981-99-8612-5_40">
     <b>Design of Automatic Online Lecture Video Commentator for Visually Impaired Students Supporting Diagram Commentary</b>
   </a><br>
-  2024 | In <i>Intelligent Computing and Applications</i> 
+  2024 | Springer SIS&T (SCOPUS) — <b>Oral Presentation</b><br>
+  <i>강의 장면·객체 관계 분석 기반 해설 생성 AI 시스템, 사용자 만족도 4.25/5</i><br>
   🔗 <a href="https://github.com/LectureVoice">Code Repository</a>
-  (제 1저자)
 </p>
-
+<br>
 
 <p>
   <a href="https://doi.org/10.1145/3572549.3572641">
     <b>Speech-Recognizing KIOSK Mobile Application for the Visually Impaired</b>
   </a><br>
-  2022 | In <i>Proceedings of the 14th International Conference on Computer Modeling and Simulation (ICCMS)</i> 
-  (제 1저자)
+  2022 | ACM ICETC (SCOPUS) — Poster Presentation<br>
+  <i>음성 인식 기반 접근성 키오스크 모바일 앱 개발</i>
 </p>
+<br>
 
-<p >
+<p>
   <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113801">
     <b>Hello my Plant: 실내 식물 이미지 인식 및 관리 앱 구현</b>
   </a><br>
-  2022 | In <i>Proceedings of the Korea Computer Congress (KCC 2022)</i> 
+  2022 | KCC 2022<br>
+  <i>식물 이미지 인식 및 증상 진단 기능을 갖춘 관리 앱 개발</i><br>
   🔗 <a href="https://github.com/HellomyPlant/HelloPlant">Code Repository</a>
-  (제 1저자)
 </p>
 
 <br>
