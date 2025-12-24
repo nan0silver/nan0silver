@@ -8,6 +8,14 @@
 프로그래머스의 Generative AI 기반 Backend 과정 우수 수강생 인터뷰에 참여해  
 제가 어떻게 공부하고 성장해 왔는지를 자세히 공유했습니다.  <br>
 🔗 <a href="https://www.youtube.com/watch?v=U7GfbGXO6As">(우수 수강생 인터뷰 영상)</a>
+
+<p>
+현재는 실제 서비스 개발 과정에서 발생하는 문제와 해결 과정을  
+<b>Project Diary</b> 형태로 기록하며 개발을 이어가고 있습니다.  
+설계 결정, 트러블 슈팅, 기술적 회고를 중심으로 정리하고 있습니다.  
+🔗 <a href="https://nan0silver.github.io/projectdiary/">Project Diary (Troubleshooting & Retrospective)</a>
+</p>
+
 </p>
 <br>
 <p>Git Blog 👉 https://nan0silver.github.io </p>
