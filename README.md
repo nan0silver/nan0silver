@@ -3,7 +3,11 @@
 저는 <b>AI 기반 영상·음성 분석 시스템</b>을 연구하고 구현하기 위해 꾸준히 노력해 온
 <b>백엔드 · AI 개발자</b>입니다.<br>
 특히 사회적 약자를 위한 접근성 기술 개발에 집중하여, 
-<b>ACM·Springer SCOPUS 국제학회 제1저자 3편</b>, Oral 발표 2회를 수행했습니다.
+<b>ACM·Springer SCOPUS 국제학회 제1저자 3편</b>, Oral 발표 2회를 수행했습니다. <br><br>
+실무 중심의 학습 여정도 지속해 왔는데,  
+프로그래머스의 Generative AI 기반 Backend 과정 우수 수강생 인터뷰에 참여해  
+제가 어떻게 공부하고 성장해 왔는지를 자세히 공유했습니다.  <br>
+🔗 <a href="https://www.youtube.com/watch?v=U7GfbGXO6As">(우수 수강생 인터뷰 영상)</a>
 </p>
 <br>
 <p>Git Blog 👉 https://nan0silver.github.io </p>
