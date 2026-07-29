@@ -1,28 +1,16 @@
 <h3>🐯 Hi, I'm NaHyun 🐯</h3>
 
-<p>
-I'm a <b>backend · AI engineer</b> building voice-driven AI services in healthcare.</br>
-These days I take them end to end — Spring Boot APIs, Flutter clients, and the AWS infrastructure</br>
-underneath — which has turned me into a bit of an accidental generalist. I've come to like the view.
-</p>
+**Backend · AI engineer** building voice-driven AI services in healthcare.
 
-<p>
-My research background is in <b>accessibility</b>: making lecture videos, diagrams, and public kiosks</br>
-usable for visually impaired users. Three first-author papers at ACM / Springer SCOPUS venues, two of</br>
-them oral presentations. Building for people whom software usually forgets is still what the work is</br>
-about — just for a different audience now.
-</p>
+I take them end to end — Spring Boot APIs, Flutter clients, and the AWS infrastructure underneath. An accidental generalist, and I've come to like the view.
 
-<h4>🔭 Currently</h4>
+Before that, my focus was **accessibility**: making lecture videos, diagrams, and public kiosks usable for visually impaired users. Three first-author papers at ACM / Springer SCOPUS venues, two oral presentations.
 
-<p>
-Leading development of a speech-based service for older adults, from architecture to deployment.</br>
-<i>(Patent filed: 10-2025-0088233 — voice-based cognitive monitoring during calls.)</i><br></br>
-Working out how to structure a codebase so that AI coding agents are actually effective in it —</br>
-document-first design, ADRs, small reviewable PRs.<br>
-Writing up what breaks in production: SSL expiry, CORS + SameSite cookies, WebSocket auth,</br>
-pessimistic locking under contention.
-</p>
+### 🔭 Currently
+
+- 🎙️ Leading a **speech-based service for older adults**, from architecture to deployment — *patent filed: 10-2025-0088233*
+- 🤖 Working out how to structure a codebase so **AI coding agents** are actually effective in it — document-first design, ADRs, small reviewable PRs
+- 🔥 Writing up what breaks in production — SSL expiry, CORS + SameSite cookies, WebSocket auth, pessimistic locking
 
 <p>
 🔗 <a href="https://nan0silver.github.io/projectdiary/">Project Diary</a> — design decisions, troubleshooting, retrospectives<br>
@@ -32,6 +20,7 @@ pessimistic locking under contention.
 </p>
 
 <br>
+
 
 <h3>📄 Publications (First Author) 📄</h3>
 
